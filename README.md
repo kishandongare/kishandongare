@@ -1,6 +1,6 @@
 - 👩‍💻 Hi, I’m @kishandongare
 - 💻 I’m interested in Machine Learning Enthusiast, Python Developer, Backend Developer
-- 📱  I’m currently looking job as a software developer
+- 📱  I’m currently looking for job as a software developer
 - 📧 How to reach me Email- kishan.tech25@gmail.com
 - 📞 +918319171837 (whatsapp)
 <!---
