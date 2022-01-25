@@ -1,6 +1,5 @@
 - 👩‍💻 Hi, I’m @kishandongare
-- 💻 I’m interested in Machine Learning Enthusiast, Python Developer, Backend Developer
-- 📱  I’m currently looking for job as a software developer
+- 💻 I’m interested in Machine Learning Enthusiast,Backend Developer,RESTfull API.
 - 📧 How to reach me Email- kishan.tech25@gmail.com
 <!---
 kishandongare/kishandongare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
