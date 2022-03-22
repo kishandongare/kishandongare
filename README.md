@@ -1,5 +1,5 @@
 - 👩‍💻 Hi, I’m @kishandongare
-- 💻 I’m interested in Machine Learning,Backend Developer,RESTfull API.
+- 💻 I’m interested in AI/ML Enthusiast.
 - 📧 How to reach me Email- kishan.tech25@gmail.com
 - 🤵🏽 https://www.linkedin.com/in/kishandongare/
 <!---
