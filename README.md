@@ -1,5 +1,5 @@
 - 👩‍💻 Hi, I’m @kishandongare
-- 💻 I’m interested in AI/ML Enthusiast.
+- 💻 I’m interested in ML Enthusiast, Python developer, Django, Flask.
 - 📧 How to reach me Email- kishan.tech25@gmail.com
 - 🤵🏽 https://www.linkedin.com/in/kishandongare/
 <!---
